@@ -1,0 +1,18 @@
+
+h1{
+    color:blueviolet
+} 
+
+*{
+    color:cadetblue
+}
+
+p{
+    color:crimson
+}
+
+.game{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
